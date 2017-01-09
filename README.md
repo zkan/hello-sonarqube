@@ -1,0 +1,2 @@
+# hello-sonarqube
+Hello, SonarQube!
